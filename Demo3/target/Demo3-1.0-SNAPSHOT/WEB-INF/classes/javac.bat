@@ -1,0 +1,1 @@
+cmd.exe /X /C ""C:\Program Files\Java\jdk-18.0.1.1\bin\javac.exe" "@C:/Users/della/Desktop/Java Programming/JavaEE/Demo3/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler6843909662795074659arguments""
